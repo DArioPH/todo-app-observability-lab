@@ -1,0 +1,8 @@
+# Ignorar los datos persistentes de las bases de datos y grafana
+datos-mysql/
+grafana-storage/
+
+# Ignorar archivos temporales del sistema o editores
+*.swp
+.DS_Store
+node_modules/
